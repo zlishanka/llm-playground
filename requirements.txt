@@ -1,2 +1,8 @@
 openai
 jupyter
+notebook
+gradio
+torch 
+torchvision 
+torchaudio
+transformers
