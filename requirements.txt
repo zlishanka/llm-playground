@@ -6,3 +6,8 @@ torch
 torchvision 
 torchaudio
 transformers
+peft
+datasets
+evaluate
+python-dotenv
+scikit-learn==1.2.2
