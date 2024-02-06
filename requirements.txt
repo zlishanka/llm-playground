@@ -16,3 +16,6 @@ langchain
 beautifulsoup4
 faiss-cpu
 trl
+
+pysqlite3
+tensorboard
