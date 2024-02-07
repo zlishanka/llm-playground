@@ -19,3 +19,4 @@ trl
 
 pysqlite3
 tensorboard
+seaborn
