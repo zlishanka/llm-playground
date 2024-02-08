@@ -2,7 +2,8 @@ openai
 jupyter
 notebook
 gradio
-torch 
+torch
+torchtext
 torchvision 
 torchaudio
 transformers
@@ -20,3 +21,4 @@ trl
 pysqlite3
 tensorboard
 seaborn
+sentencepiece
