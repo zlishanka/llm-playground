@@ -3,6 +3,7 @@ jupyter
 notebook
 gradio
 torch
+torch-mps
 torchtext
 torchvision 
 torchaudio
@@ -18,7 +19,8 @@ beautifulsoup4
 faiss-cpu
 trl
 
-pysqlite3
+#pysqlite3
 tensorboard
 seaborn
 sentencepiece
+bitsandbytes
