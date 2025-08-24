@@ -1,5 +1,19 @@
 # llm-playground
 
+- General topics and knowledge base of Large Language Model 
+
+## Topics 
+
+[Build llm from scratch](llm.build.from.scratch.md)
+
+[Distributed training of llm](llm.distrubuted.training.md)
+
+[LLM evaluation](llm.evaluation.md)
+
+[Fine tuning llm model](llm.fine.tuning.examples.md)
+
+## References 
+
 ["A Survey of Large Language Models"](https://arxiv.org/abs/2303.18223)
 
 ["Language Models are Few-Shot Learners"](https://arxiv.org/abs/2005.14165)
