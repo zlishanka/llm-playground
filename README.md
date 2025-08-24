@@ -1,16 +1,16 @@
 # llm-playground
 
-- General topics and knowledge base of Large Language Model 
-
 ## Topics 
 
 [Build llm from scratch](llm.build.from.scratch.md)
 
-[Distributed training of llm](llm.distrubuted.training.md)
+[Fine tuning llm](llm.fine.tuning.md)
+
+[Fine tuning a small llm model](llm.fine.tuning.examples.md)
 
 [LLM evaluation](llm.evaluation.md)
 
-[Fine tuning llm model](llm.fine.tuning.examples.md)
+[Distributed training of llm](llm.distrubuted.training.md)
 
 ## References 
 
