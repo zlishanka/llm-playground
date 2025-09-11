@@ -330,7 +330,6 @@ model.config.use_cache = True
 [7] P-Tuning: GPT Understands, Too: https://arxiv.org/pdf/2103.10385  
 [8] An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks: https://arxiv.org/abs/1312.6211  
 [9] Using PEFT & bitsandbytes to finetune a LoRa Checkpoint: https://colab.research.google.com/drive/14xo6sj4dARk8lXZbOifHEn1f_70qNAwy?usp=sharing  
-[10] bitsandbytes: https://github.com/bitsandbytes-foundation/bitsandbytes  
-[11] QLoRA—How to Fine-tune an LLM on a Single GPU ： https://www.youtube.com/watch?v=XpoKB3usmKc  
-[12] QLoRA Medium: https://medium.com/data-science/qlora-how-to-fine-tune-an-llm-on-a-single-gpu-4e44d6b5be32
+[10] bitsandbytes: https://github.com/bitsandbytes-foundation/bitsandbytes   
+[11] QLoRA Medium: https://medium.com/data-science/qlora-how-to-fine-tune-an-llm-on-a-single-gpu-4e44d6b5be32
 
