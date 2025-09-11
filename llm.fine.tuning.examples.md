@@ -321,7 +321,7 @@ model.config.use_cache = True
 ![alt text](llm-fine-tuning-qlora.jpg "LLM Fine-tuning with qLoRA")
 
 ## References 	
-[1] Fine-tuning LLMs with PEFT and LoRA: https://www.youtube.com/watch?v=Us5ZFp16PaU  
+[1] Fine-tuning LLMs with PEFT and LoRA: https://medium.com/@manindersingh120996/practical-guide-to-fine-tune-llms-with-lora-c835a99d7593   
 [2] PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware: https://huggingface.co/blog/peft  
 [3] Dataset: https://drive.google.com/uc?id=1rlX7CjTBeFLz2lvjaM1RbFGOX9beALQz  
 [4] LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS: https://arxiv.org/pdf/2106.09685  
