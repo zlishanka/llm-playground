@@ -140,6 +140,20 @@ Different layers or parameter matrices are placed on different devices. Each dev
 | **PyTorch Distributed (DDP)** | Meta (Facebook) | `DistributedDataParallel` for data parallelism, `RPC` for model parallelism |
 | **Horovod** | Uber | Framework-agnostic (TF + PyTorch), uses ring-allreduce for efficient gradient aggregation |
 
+### 6. Attention Residuals
+
+#### Attention Residuals. 
+- Replace fixed residuals with learned softmax attention
+- Block AttnRes cuts `memory` and `communication costs`
+
+#### Scaling Infrastructure. They build system tools for massive scale
+- Cross-stage caching speeds up training
+- Two-phase batching speeds up inference
+
+#### Comprehensive Evaluation. They test a 48B-parameter model
+- The architecture fixes PreNorm dilution
+- It consistently beats baseline models
+
 ---
 
 ## References
@@ -154,3 +168,4 @@ Different layers or parameter matrices are placed on different devices. Each dev
 | "Training Compute-Optimal Large Language Models" (Chinchilla) | [arXiv:2203.15556](https://arxiv.org/abs/2203.15556) |
 | "Train With Mixed Precision" | [NVIDIA Docs](https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html) |
 | "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" | [PDF](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) |
+| "Attention Residuals" | [arXiv:2603.15031](https://arxiv.org/abs/2603.15031) |
