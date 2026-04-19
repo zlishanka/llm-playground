@@ -169,3 +169,5 @@ Different layers or parameter matrices are placed on different devices. Each dev
 | "Train With Mixed Precision" | [NVIDIA Docs](https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html) |
 | "Dropout: A Simple Way to Prevent Neural Networks from Overfitting" | [PDF](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) |
 | "Attention Residuals" | [arXiv:2603.15031](https://arxiv.org/abs/2603.15031) |
+| "LLM Wiki Karpathy" | [karpathy/llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) |
+

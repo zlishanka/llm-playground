@@ -135,4 +135,7 @@
 [3] How to Build an LLM from Scratch | An Overview: https://www.youtube.com/watch?v=ZLbVdvOoTKM  
 [4] Power consumption when training artificial intelligence (AI) based large language models (LLMs) in 2023: https://www.statista.com/statistics/1384401/energy-use-when-training-llm-models/  
 [5] Five Steps to Create a New AI Model: https://www.youtube.com/watch?v=jcgaNrC4ElU. 
-[6] Build a tokenizer from scratch: https://huggingface.co/docs/tokenizers/quicktour    
+[6] Build a tokenizer from scratch: https://huggingface.co/docs/tokenizers/quicktour  
+[7] Build a Large Language Model (From Scratch): https://www.manning.com/books/build-a-large-language-model-from-scratch  
+[8] Github: LLMs-from-scratch: https://github.com/rasbt/LLMs-from-scratch  
+ 
